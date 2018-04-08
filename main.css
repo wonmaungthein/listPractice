@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(205, 228, 125);
+}
+
+#listButton {
+  background-color: rgb(84, 124, 235);
+  height: 50px;
+  width: 150px;
+  font-size: 15px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 200px auto 200px;
+}
